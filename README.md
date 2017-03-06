@@ -1,5 +1,6 @@
 # inline-webpack-plugin
 
+inline plugin only for [egg](https://eggjs.org/) + webpack
 
 ## Install
 
