@@ -1,0 +1,28 @@
+{
+  "name": "inline-webpack-plugin",
+  "version": "1.0.0",
+  "description": "inline plugin for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangmhao/inline-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "inline",
+    "plugin"
+  ],
+  "author": "zhangmhao@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangmhao/inline-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/zhangmhao/inline-webpack-plugin#readme",
+  "dependencies": {
+    "debug": "^2.6.1",
+    "inline-source": "^5.2.0"
+  }
+}
